@@ -1,28 +1,14 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hey! I am <a href="https://github.com/AdrianArtimez">Adrián Alonso</a> | ⚡</h1>
-</h1>
-<h4 align="center">A Software developer at @T-Systems Iberia, that loves Object-Oriented Programming!</h4>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey! I'm <a href="https://github.com/AdrianArtimez">Adrián Alonso</a> | ⚡</h2>
 
-<div align="center">
-  
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AdrianArtimez/)](https://github.com/AdrianArtimez/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianalonsodev/)](https://www.linkedin.com/in/adrianalonsodev)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=[https://stackoverflow.com/users/12838380/adrian-alonso](https://stackoverflow.com/users/12838380/adrian-alonso))](https://stackoverflow.com/users/12838380/adrian-alonso)
+<h4 align="left">A Software engineer at @Akkodis, that loves clean code and clean architectures!</h4>
 
+<div align="left">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
-<br/>
- <div>
-  <samp>
-    <h2 align="center"> 💻 GitHub Profile Stats </h2>
-      <br/>
-        <p align="center">
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdrianArtimez&show_icons=true&hide_border=true&count_private=true&theme=ayu-mirage" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianArtimez&theme=ayu-mirage&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>
+### 💻 GitHub Profile Stats
+![imageStats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianAlonsoDev&theme=algolia)
+
+### 📬 Find me at
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianalonsodev/)](https://www.linkedin.com/in/adrianalonsodev)[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=[https://stackoverflow.com/users/12838380/adrian-alonso](https://stackoverflow.com/users/12838380/adrian-alonso))](https://stackoverflow.com/users/12838380/adrian-alonso)[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AdrianArtimez/)](https://github.com/AdrianArtimez/)
