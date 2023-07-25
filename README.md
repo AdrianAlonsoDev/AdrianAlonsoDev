@@ -1,6 +1,6 @@
 <h2 align="left"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey! I'm <a href="https://github.com/AdrianArtimez">Adrián Alonso</a> | ⚡</h2>
 
-<h4 align="left">A Software engineer at @Akkodis, that loves clean code and clean architectures!</h4>
+<h4 align="left">A Technical Referent & Software developer at @Akkodis, that loves clean code and clean architectures!</h4>
 
 <div align="left">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
