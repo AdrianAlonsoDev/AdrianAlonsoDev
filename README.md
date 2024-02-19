@@ -3,7 +3,7 @@
 <h4 align="left">A Technical Referent & Software developer at @Akkodis, that loves clean code and clean architectures!</h4>
 
 <div align="left">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
