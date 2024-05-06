@@ -1,9 +1,5 @@
 <h2 align="left"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey! I'm <a href="https://github.com/AdrianAlonsoDev">Adrián Alonso</a> ⚡</h2>
 <h4 align="left">Senior Software engineer for   <a href="https://www.santanderdigitalservices.com/es/software-engineering"><img align="center"src="https://github.com/AdrianAlonsoDev/AdrianAlonsoDev/assets/6146371/6d1e64aa-77c9-417b-a9af-98aa30dab78d" height="120px"></a></h4>
-<div align="left">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ### 💻 GitHub Profile Stats
 ![imageStats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianAlonsoDev&theme=algolia)
